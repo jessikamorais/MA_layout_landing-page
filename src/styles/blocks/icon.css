@@ -1,0 +1,29 @@
+/* #region icon */
+.icon {
+  display: block;
+  height: 24px;
+  width: 24px;
+}
+
+.icon--phone {
+  background-image: url(../../images/icons/phone-icon.png);
+}
+
+.icon--menu {
+  background-image: url(../../images/icons/menu-icon.png);
+}
+
+.icon--close {
+  background-image: url(../../images/icons/close-icon.png);
+}
+
+.header__title {
+  color: #ffff;
+  font-size: 40px;
+  font-weight: 700px;
+  line-height: 40px;
+  letter-spacing: -1.5px;
+  text-align: center;
+}
+
+/* #endregion */
